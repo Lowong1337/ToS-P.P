@@ -1,0 +1,28 @@
+Terms of Service
+Welcome to our SMP Verification System.
+By using this bot, you agree to comply with and be bound by the following Terms of Service. Please review them carefully. If you do not agree to these terms, you should not use this bot.
+
+2. Description of Service
+ZieSMP Verification provides the safety of our community. This service is provided "as is" and we make no guarantees regarding the uptime or availability of the bot.
+
+3. User Conduct
+By using this bot, you agree to:
+
+Follow Discord’s Terms of Service and Community Guidelines.
+Not use the bot for any illegal activities or to promote any harmful content.
+Respect other users and not engage in harassment or abuse.
+
+4. Data Collection
+Our Privacy Policy describes the data we collect and how we use it. By using this bot, you consent to our data practices as described in our Privacy Policy.
+
+5. Termination
+We reserve the right to terminate or restrict your access to the bot at our sole discretion, without notice or liability, for conduct that we believe violates these terms or is otherwise harmful to other users.
+
+6. Changes to Terms
+We may update these Terms of Service from time to time. You are encouraged to review the terms regularly. Your continued use of the bot after changes are posted constitutes your acceptance of the updated terms.
+
+7. Limitation of Liability
+To the maximum extent permitted by applicable law, Our Verification shall not be liable for any indirect, incidental, special, consequential or punitive damages, or any loss of profits or revenues, whether incurred directly or indirectly, or any loss of data, use, goodwill, or other intangible losses, resulting from your use of the bot.
+
+8. Contact
+If you have any questions or concerns about these Terms of Service, please contact me at freshyy@lowong.space
